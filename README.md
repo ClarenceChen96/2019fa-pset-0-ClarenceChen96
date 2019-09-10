@@ -4,9 +4,9 @@ Replace these with your own build badges!
 
 [![Build Status](https://travis-ci.com/csci-e-29-dev/pset-0-starter.svg?token=aaaaa&branch=master)](https://travis-ci.com/csci-e-29-dev/pset-0-starter)
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/aaaaa/maintainability)](https://codeclimate.com/repos/aaaaa/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/b94ad4275b08cbaee29d/maintainability)](https://codeclimate.com/repos/5d765f47673215019f00ee96/maintainability)
 
-[![Test Coverage](https://api.codeclimate.com/v1/badges/aaaaa/test_coverage)](https://codeclimate.com/repos/aaaaa/test_coverage)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/b94ad4275b08cbaee29d/test_coverage)](https://codeclimate.com/repos/5d765f47673215019f00ee96/test_coverage)
 
 ## Objectives
 
